@@ -1,12 +1,10 @@
 import React, { useContext } from 'react';
-import Switch from 'react-switch';
 import { ThemeContext } from 'styled-components';
 
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 
 import { ContainerContact, SubContainerTexts, TextTitle, SubTextTitle, SubContainerContact, BoxContact, Icon, BoxTexts, LinkText, BoxCV, LinkTextCV, ContainerSocialMedias, SocialMedia, Imagem } from './styles';
-import { FiArrowDown } from "react-icons/fi";
 
 import contactImage from '../../assets/mock/contact.png';
 

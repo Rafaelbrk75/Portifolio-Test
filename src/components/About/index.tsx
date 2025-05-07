@@ -1,7 +1,5 @@
 import React, { useContext } from 'react';
-import Switch from 'react-switch';
 import { ThemeContext } from 'styled-components';
-import { Link } from 'react-router-dom';
 import { ContainerAbout, Image, SubContainerAbout, SubTitle, Description, ContainerButtons, ContactButton, TextButton } from './styles';
 
 import photo from '../../assets/photo.png';
