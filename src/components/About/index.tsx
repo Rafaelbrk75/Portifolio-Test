@@ -16,7 +16,7 @@ const About: React.FC<Props> = ({ toggleTheme }) => {
 
     return (
         <ContainerAbout id="sobre">
-            <Image src={photo} alt="Gabriel Barbosa" />
+            <Image src={photo} alt="Rafael Rodrigues" />
 
             <SubContainerAbout>
                 <SubTitle>

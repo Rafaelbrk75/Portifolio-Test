@@ -22,7 +22,7 @@ const Presentation: React.FC<Props> = ({ toggleTheme }) => {
         <ContainerPresentation>
             <ContainerMe>
                 <TextName>
-                    Gabriel Barbosa
+                    Rafael Rodrigues
                 </TextName>
                 <SubText>
                     <Typewriter
